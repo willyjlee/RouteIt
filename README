@@ -1,0 +1,8 @@
+RouteIt:
+
+A quick route finder application for locations in local LA area.
+Uses street data from Open Street Maps (OSM) to compute a shortest route, complete with
+distances travelled on each street and directional turns.
+
+* Uses A* algorithm with shortest distance to destination heuristic.
+* Able to closely match Google Maps route finding in distance and routes.
